@@ -1,11 +1,11 @@
 module.exports = {
 
 	from: {
-		version: '19.04',
+		version: '21.02.04',
 		url: 'https://api.enterprise.apigee.com',
-		userid: 'admin@google.com',
-		passwd: 'SuperSecret123',
-		org: 'org1',
+		userid: 'divyansh.jain@neosalpha.com',
+		passwd: 'Dj@17091997',
+		org: 'divyanshjain-eval',
 		env: 'test'
 	},
 	to: {
